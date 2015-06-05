@@ -1,0 +1,29 @@
+{
+  "name": "generator-bear",
+  "version": "0.1.0",
+  "description": "Yet another, but bear, npm package generator",
+  "files": [
+    "./lib/generators/app"
+  ],
+  "scripts": {
+    "test": "mocha ./test"
+  },
+  "keywords": [
+    "yo",
+    "yeoman",
+    "yeoman-generator",
+    "generator",
+    "bear",
+    "npm"
+  ],
+  "author": "Sergey Kamardin",
+  "license": "MIT",
+  "dependencies": {
+    "async": "^1.2.0",
+    "mkdirp": "^0.5.1",
+    "moment": "^2.10.3",
+    "npm-name": "^1.0.4",
+    "schinquirer": "^0.3.1",
+    "yeoman-generator": "^0.20.1"
+  }
+}
