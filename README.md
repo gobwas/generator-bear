@@ -1,33 +1,28 @@
-#  [![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Dependency Status][daviddm-image]][daviddm-url]
+# Bear, the generator [![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Dependency Status][daviddm-image]][daviddm-url]
 
-> fff
+> Yet another, but bear, npm package generator
 
+## What's up
+
+This is a simple [npm](http://npmjs.org) package generator for [yeoman](http://yeoman.io).
+
+<a href="http://www.sebastienmillon.com/I-Love-You-Bear"><img src="/assets/bear.png" alt="Bear Logo" title="Bear" align="right"/></a>
 
 ## Install
 
 ```sh
-$ npm install --save generator-bear
+$ npm install -g yo generator-bear
 ```
-
 
 ## Usage
 
-```js
-var generatorBear = require('generator-bear');
-
-generatorBear('Rainbow');
+```shell
+yo bear
 ```
-
-
-## API
-
-### generatorBear.<method>(param: Type) : Result
-
 
 ## License
 
-MIT © [](https://f.ru)
-
+MIT
 
 [npm-image]: https://badge.fury.io/js/generator-bear.svg
 [npm-url]: https://npmjs.org/package/generator-bear
