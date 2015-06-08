@@ -4,9 +4,9 @@
 
 ## What's up
 
-This is a simple [npm](http://npmjs.org) package generator for [yeoman](http://yeoman.io).
-
 <a style="position: absolute; top: 241px; right: 32px; width: 150px;" href="http://www.sebastienmillon.com/I-Love-You-Bear"><img src="/assets/bear.png" alt="Bear Logo" title="Bear" align="right"/></a>
+
+This is a simple [npm](http://npmjs.org) package generator for [yeoman](http://yeoman.io).
 
 ## Install
 
